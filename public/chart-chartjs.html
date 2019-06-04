@@ -43,7 +43,7 @@
   <section id="container" class="">
     <!--header start-->
 
-    <<header class="header dark-bg">
+    <header class="header dark-bg">
       <div class="toggle-nav">
         <div class="icon-reorder tooltips" data-original-title="Toggle Navigation" data-placement="bottom"><i class="icon_menu"></i></div>
       </div>
