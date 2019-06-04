@@ -2,6 +2,7 @@
   "name": "bb_7_proto_v2",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://angelfire529.github.io/bb_7_prototype_v2",
   "dependencies": {
     "import-glob-loader": "^1.1.0",
     "node-sass": "^4.12.0",
